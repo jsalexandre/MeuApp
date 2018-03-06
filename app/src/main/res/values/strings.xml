@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">MeuApp</string>
+    <string name="edit_message" translatable="false">Escreva uma mensagem</string>
+    <string name="button_send" translatable="false">Envie</string>
+</resources>
